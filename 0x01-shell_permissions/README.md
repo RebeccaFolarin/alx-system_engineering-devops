@@ -9,3 +9,4 @@
 (9) write a script that sets the permission to the file hello
 (10) write a script that sets the mode of the file hello
 (11) write a script that sets the mode of the file hello the same as olleh mode
+(12) create a script that adds execute permissions to all subdirectories of the current directory for the owner, the group owner and all other users
